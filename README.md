@@ -16,7 +16,8 @@ The weights can be downloaded from [here](https://github.com/JyotBuch/Classroom-
 In order to work with the weights, we are currently using a simple CLI process where we run a command to process the video footage
 
 Please make sure to clone the YOLOv5 model from [here](https://github.com/ultralytics/yolov5)
-Upon downloaded the weight files, run the following command in the **YOLOv5** folder
+
+Upon downloading the weight files, run the following command in the **YOLOv5** folder
 
 `python detect.py --source <location to video or image> --weights <location to weights file>`
 
