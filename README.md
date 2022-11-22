@@ -4,7 +4,7 @@
 
 - This project is mainly based on detecting the activity in a classroom through the cctv footage.
 - There are many situations where the classrooms are left unattended and still need to be monitored to be alerted in case of any misbehaviour 
-- So while classrooms are always monitored on CCTV, here we use the benefits of technology to detect certain anomalies in the classroom. This is performed by applying - - Deep Learning techniques and using it on the CCTV footage
+- So while classrooms are always monitored on CCTV, here we use the benefits of technology to detect certain anomalies in the classroom. This is performed by applying Deep Learning techniques and using it on the CCTV footage
 
 
 We have used YOLOV5 architecture to train this model for 2 custom classes
